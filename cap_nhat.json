@@ -1,0 +1,26 @@
+{
+ "ban_phat_hanh": "2.6",
+ "san_pham": {
+  "nt": {
+   "version": "2.6",
+   "file": "App_cho_nha_thau_thi_cong.html",
+   "sha256": "0e8b349e7daed4db2457ff75c4cae4fce65272690401e28b66fcb1b80950a1c7",
+   "sig": "NH8mhPXP+oGKpIskvT2pgDI36Cigk6p4/PcgvmWjHsvzsNACRj3OYHtlQGuREPlfmlPErF6RQub9xqc/nM0vnyEHRo/hBN6klMdisSkz4GVxI69Z8C8V/VSNomeYFjMIP1B0K2wbMHM46xeczsKeupg/LJQUjPpfcH3rxZVlCjVt0g5pFTk5TbQWx+7dXO320Y1IsOAj0Js7llrq/e2/yKQPJiOAceW9jyH8rDeEQQ/LxW5YJH21coih3gHzpJKQ9ckHTWrzpLMsuQOuOvqCUYdcmqHbO+6ntXtB3dCcUIacbpMiuuR4yvofbWQm4hUPzbJw2obiwxWzyYhqptJScw==",
+   "ghi_chu": "- Bộ 3 app xây dựng mở bán theo tháng: dùng thử 7 ngày, sau đó mã kích hoạt 30 ngày, 199.000đ mỗi app, mã gắn email.\n- Có nhiều dự án trong mỗi app, kho văn bản, đồng bộ nhiều máy qua thư mục Google Drive hoặc OneDrive.\n- Có nút Trợ lý AI và mục Viết báo cáo ngày, tuần, tháng.\n- Mục Tiến độ: chọn file phụ lục hợp đồng hoặc bảng khối lượng dự toán, app tự dựng tiến độ tổng thể (các giai đoạn) và tiến độ chi tiết, tự tính số ngày từ năng suất tổ, nối trình tự, co về đúng hạn hợp đồng. Năng suất sửa được.\n- App tự cập nhật: khi có bản mới, lần mở app kế tiếp tự tải và thay, dữ liệu khách nhập được giữ nguyên. Khách chỉ cần cài bản này một lần."
+  },
+  "qlda": {
+   "version": "2.6",
+   "file": "App_cho_nha_thau_quan_ly_du_an.html",
+   "sha256": "e94066eeaac16c28bf9dba31a964ce2250628d7392e3e0c33635632d9d437bbf",
+   "sig": "m8YtOx4D0ejqO4frGzCr5XnqUVGg2Jr9fVkjjQGWDXnPOGIGtXlSn3erx5kjzm10OTZa/U/wiIafmAp+bRTPoMhx6Db8ZL+Tk88dmuxvCpeW4f7lA+Ygx7rP8x/wKjr8/tGSeL6U0a8l0qodadMAvo4/tt8o+itbAwK4be045PvmLoJ/RpWnvpG6glusJsWjJXZBWTucZ/1mx0zvPqezAYv9d0ROaEYlyRkrSFmRTK2Sl1RLOy/shtncOc6Ww/+j+9VWS9WmXK+hlIcg49cFXJ0L0ASG7ofGh4wP71N9Ih/qVqHrP4N1pYru/u5MOkWp2Cfy7gWfJ2UMWXnFphLrqA==",
+   "ghi_chu": "- Bộ 3 app xây dựng mở bán theo tháng: dùng thử 7 ngày, sau đó mã kích hoạt 30 ngày, 199.000đ mỗi app, mã gắn email.\n- Có nhiều dự án trong mỗi app, kho văn bản, đồng bộ nhiều máy qua thư mục Google Drive hoặc OneDrive.\n- Có nút Trợ lý AI và mục Viết báo cáo ngày, tuần, tháng.\n- Mục Tiến độ: chọn file phụ lục hợp đồng hoặc bảng khối lượng dự toán, app tự dựng tiến độ tổng thể (các giai đoạn) và tiến độ chi tiết, tự tính số ngày từ năng suất tổ, nối trình tự, co về đúng hạn hợp đồng. Năng suất sửa được.\n- App tự cập nhật: khi có bản mới, lần mở app kế tiếp tự tải và thay, dữ liệu khách nhập được giữ nguyên. Khách chỉ cần cài bản này một lần."
+  },
+  "tvgs": {
+   "version": "2.6",
+   "file": "App_cho_nha_thau_tu_van_giam_sat_ky_thuat.html",
+   "sha256": "2a9505cbda71f35e3ef028788aff8e5cb70960a18ca24003ff88bb883ad9b7ad",
+   "sig": "fm762WXaViUG+mUVqieAnNK4rWP2gtNIEhNEAV3/CvrhPgA2ofJLFzImBSe1TINbtaQWOQsrmwxcCmVDb2ojMInY6YS0woZfzF0ZLsX3T0N9ykUJsoOOUNSQMLk67EOO7xCNtAYTjwXrEposNwleKFmoQU3yblsm2Xi1KXbLvlytFzDK3mJ+l82p/l2S82nk6bXk5MJ+aqWYxUvyJ2vwx/Gq6GyQXD/fwOBeoEQLOKRXbIgRp/6bm0Z0ZebjIJgiEssOJIrQxzH+Hlv8MtDUPH30S3UbsYvXAJdP0FnRKeTUnid90BsEclFkS2twZnFKZ8BI9mMnOFMGZGXuxVLtYQ==",
+   "ghi_chu": "- Bộ 3 app xây dựng mở bán theo tháng: dùng thử 7 ngày, sau đó mã kích hoạt 30 ngày, 199.000đ mỗi app, mã gắn email.\n- Có nhiều dự án trong mỗi app, kho văn bản, đồng bộ nhiều máy qua thư mục Google Drive hoặc OneDrive.\n- Có nút Trợ lý AI và mục Viết báo cáo ngày, tuần, tháng.\n- Mục Tiến độ: chọn file phụ lục hợp đồng hoặc bảng khối lượng dự toán, app tự dựng tiến độ tổng thể (các giai đoạn) và tiến độ chi tiết, tự tính số ngày từ năng suất tổ, nối trình tự, co về đúng hạn hợp đồng. Năng suất sửa được.\n- App tự cập nhật: khi có bản mới, lần mở app kế tiếp tự tải và thay, dữ liệu khách nhập được giữ nguyên. Khách chỉ cần cài bản này một lần."
+  }
+ }
+}
